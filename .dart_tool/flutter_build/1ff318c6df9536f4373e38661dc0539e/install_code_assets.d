@@ -1,0 +1,1 @@
+ C:\\Users\\karan\\Documents\\software\ projects\\Personal\\Monimala\\monimala_app\\.dart_tool\\flutter_build\\1ff318c6df9536f4373e38661dc0539e\\native_assets.json: 
